@@ -11,7 +11,7 @@ body {
 	width: 400px;
 	height: 400px;
 	position: relative;
-	margin-top: 260px;
+	margin-top: 252px;
 }
 .image {
 	position: absolute;
@@ -26,6 +26,7 @@ p {
 	font-size: 52px;
 	font-weight: bold;
 	color: #000;
+	margin-top: -25;
 }
 .main {
 	position: relative;
@@ -34,7 +35,7 @@ p {
 	height: 820px;
 	margin: 0 auto;
 	border-radius: 35px;
-	margin-top: -57px;
+	margin-top: -36px;
 }
 .box {
 	background-color: #000;
